@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 325b6879-e0a3-f662-8295-e1b91b227a26
 resourcetype: Document
 title: Thomas R
 uid: 31291696-1506-ca8a-ae91-ecff6b2156b4
