@@ -5,6 +5,7 @@ file: /courses/21g-403-german-iii-spring-2004/312916961506ca8aae91ecff6b2156b4_M
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Thomas R
 uid: 31291696-1506-ca8a-ae91-ecff6b2156b4
 ---
 This resource contains the information regarding thomas R.
-
