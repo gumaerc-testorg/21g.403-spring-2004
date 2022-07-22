@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Lecture topics and assignments in German.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 8a06455c-9bad-a0ee-7285-d9c51cbecafe
 ---

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Various texts used in the course. Short stories, poems and other texts
+  are read by students.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 88faf19c-ff8e-06c9-5bce-87ee1618431a
 ---
