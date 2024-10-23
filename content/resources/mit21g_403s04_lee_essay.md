@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding 21G.
-file: /courses/21g-403-german-iii-spring-2004/b1642903d65d957974c09d9de94060fb_MIT21G_403S04_lee_essay.pdf
+file: /ol-ocw-studio-app/courses/21g-403-german-iii-spring-2004/b1642903d65d957974c09d9de94060fb_MIT21G_403S04_lee_essay.pdf
 file_size: 556421
 file_type: application/pdf
 learning_resource_types:
