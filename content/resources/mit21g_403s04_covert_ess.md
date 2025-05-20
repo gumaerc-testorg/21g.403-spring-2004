@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding thomas R.
-file: /ol-ocw-studio-app/courses/21g-403-german-iii-spring-2004/312916961506ca8aae91ecff6b2156b4_MIT21G_403S04_covert_ess.pdf
+file: /courses/21g-403-german-iii-spring-2004/312916961506ca8aae91ecff6b2156b4_MIT21G_403S04_covert_ess.pdf
 file_size: 519794
 file_type: application/pdf
 learning_resource_types:
