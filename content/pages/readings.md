@@ -13,7 +13,7 @@ Below are various texts used in the course. Short stories, poems and other texts
 
 Bichsel, Peter. "Ein Tisch ist ein Tisch." in _Kindergeschichten_, Neuwied: Luchterhand, 1969. ISBN: 3518398512.
 
-Brüder Grimm: "Rotkäppchen." ([View text](http://gutenberg.spiegel.de/grimm/maerchen/rotk.htm) on Project Gutenberg Germany.)
+Brüder Grimm: "Rotkäppchen." ({{% resource_link "54dcdc65-bb56-42c5-9ba2-32116c57d28a" "View text" %}} on Project Gutenberg Germany.)
 
 Biermann, Wolf. "Das Märchen vom kleinen Herrn Moritz, der eine Glatze kriegte." (Originally published in 1972.)
 
